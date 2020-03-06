@@ -10,9 +10,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "codesleeve/stapler": "1.2.*",
-        "laravel/framework": "4.*|5.*"
+        "php": ">=7.2"
     },
     "autoload": {
         "classmap": [
@@ -21,6 +19,5 @@
         "psr-4": {
             "Codesleeve\\LaravelStapler\\": "src/"
         }
-    },
-    "minimum-stability": "stable"
+    }
 }
